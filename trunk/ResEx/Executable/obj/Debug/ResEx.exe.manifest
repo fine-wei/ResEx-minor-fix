@@ -4,7 +4,7 @@
   <description asmv2:iconFile="App.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="ResEx" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="ResEx" version="1.0.0.1" language="neutral" processorArchitecture="msil" />
     <commandLine file="ResEx.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -95,85 +95,85 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ResEx.exe" size="627712">
-      <assemblyIdentity name="ResEx" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="ResEx" version="1.0.0.1" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>qfl8+y3GtP2VseoDOIEIDhnO6Ys=</dsig:DigestValue>
+        <dsig:DigestValue>r681VPe/N2X7HZdVCOilRgmda/I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ResEx.Common.dll" size="13312">
-      <assemblyIdentity name="ResEx.Common" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="ResEx.Common" version="1.0.0.1" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>FuIOSpHvAZrWwpLrL9cGvYsnCNA=</dsig:DigestValue>
+        <dsig:DigestValue>3vj123S0C1jV5eWJZxxBmwC1UxY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ResEx.Core.dll" size="25600">
-      <assemblyIdentity name="ResEx.Core" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="ResEx.Core" version="1.0.0.1" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Aw8NVpo+6u4mBnM9OZGmh3aSr1U=</dsig:DigestValue>
+        <dsig:DigestValue>DJZw6bjRzE8hVLQkpfqxWoGH20U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ResEx.StandardAdapters.dll" size="13824">
-      <assemblyIdentity name="ResEx.StandardAdapters" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="ResEx.StandardAdapters" version="1.0.0.1" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>IApotFjEJfgF9lQkJw1QleSH2iw=</dsig:DigestValue>
+        <dsig:DigestValue>yfLMVw6ozbVCHjqKnx7+/VFoSzs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ResEx.StandardPlugIns.dll" size="33280">
-      <assemblyIdentity name="ResEx.StandardPlugIns" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="ResEx.StandardPlugIns" version="1.0.0.1" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>nyuHHcUFAtno2zwtcd0WHPntJVY=</dsig:DigestValue>
+        <dsig:DigestValue>YaL42CN+UnoPf7k43Pohf0j0vws=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ResEx.TranslationPlugin.dll" size="64000">
-      <assemblyIdentity name="ResEx.TranslationPlugin" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="ResEx.TranslationPlugin" version="1.0.0.1" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>b4QIoGBPgTMrAkU2PqTnqeDIWig=</dsig:DigestValue>
+        <dsig:DigestValue>GHRDi0V9Gj5lFilhSEq41YYsTFo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ResEx.Win.dll" size="22016">
-      <assemblyIdentity name="ResEx.Win" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="ResEx.Win" version="1.0.0.1" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>j7f8X4Tq6sx5V2n5Sywd9u7jzHI=</dsig:DigestValue>
+        <dsig:DigestValue>MBYw2/fgArq16qfntSiXKOA91Ws=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
