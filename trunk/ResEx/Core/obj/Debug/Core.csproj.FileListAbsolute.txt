@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Core\bin\Debug\ResEx.Core.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Core\bin\Debug\ResEx.Core.pdb
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Core\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Core\bin\Debug\ResEx.Common.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Core\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Core\bin\Debug\ResEx.Common.pdb
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Core\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Core\bin\Debug\Microsoft.Practices.ObjectBuilder2.xml
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Core\obj\Debug\ResEx.Core.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Core\obj\Debug\ResEx.Core.pdb

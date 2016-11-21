@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <system.serviceModel>
+        <client>
+            <endpoint address="http://api.microsofttranslator.com/v2/Soap.svc"
+                      binding="basicHttpBinding"
+                      contract="MicrosoftTranslator.LanguageService" />
+        </client>
+    </system.serviceModel>
+    <system.net>
+        <defaultProxy useDefaultCredentials="true">
+            <proxy autoDetect="True"/>
+        </defaultProxy>
+    </system.net>
+</configuration>

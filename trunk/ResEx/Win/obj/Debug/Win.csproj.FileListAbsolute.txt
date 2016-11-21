@@ -1,0 +1,16 @@
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Win\bin\Debug\ResEx.Win.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Win\bin\Debug\ResEx.Win.pdb
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Win\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Win\bin\Debug\ResEx.Common.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Win\bin\Debug\ResEx.Core.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Win\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Win\bin\Debug\ResEx.Common.pdb
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Win\bin\Debug\ResEx.Core.pdb
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Win\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Win\bin\Debug\Microsoft.Practices.ObjectBuilder2.xml
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Win\obj\Debug\Win.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Win\obj\Debug\ResEx.Win.CultureSelectForm.resources
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Win\obj\Debug\ResEx.Win.TreeNavigator.resources
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Win\obj\Debug\Win.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Win\obj\Debug\ResEx.Win.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Win\obj\Debug\ResEx.Win.pdb
