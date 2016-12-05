@@ -214,7 +214,8 @@ namespace ResEx.StandardAdapters
         internal static void ResourceSet2Resx(ResourceSet resourceSet, Stream stream)
         {
             var writer = new ResXResourceWriter(stream);
-            foreach (ResourceItem resourceItem in resourceSet.Values)
+            var orderedResourceItems = resourceSet.Values.OrderBy(ri => ri.Name);
+            foreach (ResourceItem resourceItem in orderedResourceItems)
             {
                 var resourceNode = new ResXDataNode(resourceItem.Name, resourceItem.Value);
                 

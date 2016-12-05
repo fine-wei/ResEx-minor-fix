@@ -1,0 +1,5 @@
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Common\bin\Release\ResEx.Common.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Common\bin\Release\ResEx.Common.pdb
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Common\obj\Release\ResEx.Common.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\Common\obj\Release\ResEx.Common.pdb

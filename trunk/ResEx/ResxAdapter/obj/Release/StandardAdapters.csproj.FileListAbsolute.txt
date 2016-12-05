@@ -1,0 +1,17 @@
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\bin\Release\ResEx.StandardAdapters.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\bin\Release\ResEx.StandardAdapters.pdb
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\bin\Release\Mvp.Xml.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\bin\Release\ResEx.Common.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\bin\Release\ResEx.Core.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\bin\Release\ResEx.Common.pdb
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\bin\Release\ResEx.Core.pdb
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\bin\Release\Mvp.Xml.pdb
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\bin\Release\Microsoft.Practices.Unity.xml
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\bin\Release\Microsoft.Practices.ObjectBuilder2.xml
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\obj\Release\StandardAdapters.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\obj\Release\ResEx.StandardAdapters.Properties.Resources.resources
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\obj\Release\StandardAdapters.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\obj\Release\ResEx.StandardAdapters.dll
+C:\Users\user\Downloads\resex-81799\trunk\ResEx\ResxAdapter\obj\Release\ResEx.StandardAdapters.pdb
